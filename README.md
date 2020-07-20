@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently a research student at the Computer Vision Lab at KCIS, IIIT Hyderbad under Dr. Ravi Kiran.
+I am currently a research student at the Computer Vision Lab at KCIS, IIIT Hyderbad.
+
+
