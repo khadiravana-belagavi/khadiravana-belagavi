@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently a research student at the Computer Vision Lab at KCIS, IIIT Hyderbad.
+I am currently a research student at the Computer Vision Lab at KCIS, IIIT Hyderbad. Really fascinated by the power of nueral nets. A long way to go!
 
 
