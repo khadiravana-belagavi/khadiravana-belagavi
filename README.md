@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 I am currently a research student at the Computer Vision Lab at KCIS, IIIT Hyderbad. Really fascinated by the power of nueral nets. A long way to go!
 
-!![BVK's github stats](https://github-readme-stats.vercel.app/api?username=khadiravana-belagavi&theme=dark&show_icons=true)
+![BVK's github stats](https://github-readme-stats.vercel.app/api?username=khadiravana-belagavi&theme=gruvbox&show_icons=true)
